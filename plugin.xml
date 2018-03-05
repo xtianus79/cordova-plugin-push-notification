@@ -3,12 +3,13 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
-    id="cordova-plugin-push-notification"
-    version="2.5.2">
+    id="cordova-plugin-push-notification-2018"
+    version="2.6.0">
     <name>Push Notification</name>
-    <author>Mehdy Dara</author>
+    <author>Christian Holes</author>
     <description>
         This plugin allows your application to receive push notifications on Android, iOS, WP8 and Windows8 devices.
+        Updated for IOS in 2018
         Android uses Google Cloud Messaging.
         iOS uses Apple APNS Notifications.
         WP8 uses Microsoft MPNS Notifications.
@@ -21,7 +22,7 @@
     </js-module>
 
     <engines>
-        <engine name="cordova" version=">=3.0.0" />
+        <engine name="cordova" version=">=8.0.0" />
     </engines>
 
     <!-- android -->

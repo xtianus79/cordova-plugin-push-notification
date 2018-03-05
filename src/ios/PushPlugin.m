@@ -1,5 +1,7 @@
 /*
- Copyright 2009-2011 Urban Airship Inc. All rights reserved.
+ Copyright 2009-2018 Urban Airship Inc. All rights reserved.
+
+ Updated for ios in 2018
 
  Redistribution and use in source and binary forms, with or without
  modification, are permitted provided that the following conditions are met:

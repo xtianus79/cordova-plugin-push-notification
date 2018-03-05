@@ -1,17 +1,17 @@
 {
-  "name": "cordova-plugin-push-notification",
+  "name": "cordova-plugin-push-notification-2018",
   "version": "2.6.0",
-  "description": "Cordova plugin to send push notification on Android, iOS, WP8 and Windows8 devices.",
+  "description": "Cordova plugin to send push notification on Android, iOS, WP8 and Windows8 devices. Updated for ios in 2018",
   "main": "www/PushNotification.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xtianus79/cordova-plugin-push-notification.git"
+    "url": "git+https://github.com/xtianus79/cordova-plugin-push-notification-2018.git"
   },
   "cordova": {
-    "id": "cordova-plugin-push-notification",
+    "id": "cordova-plugin-push-notification-2018",
     "platforms": [
       "android",
       "amazon-fireos",
@@ -34,7 +34,7 @@
   "author": "Christian Holes <xtianus@live.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xtianus79/cordova-plugin-push-notification/issues"
+    "url": "https://github.com/xtianus79/cordova-plugin-push-notification-2018/issues"
   },
-  "homepage": "https://github.com/xtianus79/cordova-plugin-push-notification#readme"
+  "homepage": "https://github.com/xtianus79/cordova-plugin-push-notification-2018#readme"
 }
