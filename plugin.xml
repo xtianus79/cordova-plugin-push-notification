@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
-    id="cordova-plugin-push-notification-2018"
+    id="cordova-plugin-push-notification-18"
     version="2.6.0">
     <name>Push Notification</name>
     <author>Christian Holes</author>
